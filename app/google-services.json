@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1056936223439",
+    "firebase_url": "https://latihanku-9d6f8-default-rtdb.firebaseio.com",
+    "project_id": "latihanku-9d6f8",
+    "storage_bucket": "latihanku-9d6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056936223439:android:016cacbb917f49384e4dba",
+        "android_client_info": {
+          "package_name": "com.alifeil.firebasechatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDUeNUGp9xRuCw_GZH10-N5GAWzF4xAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056936223439:android:4b5d0288f63af7c64e4dba",
+        "android_client_info": {
+          "package_name": "com.alifeil.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDUeNUGp9xRuCw_GZH10-N5GAWzF4xAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056936223439:android:af602dc1d48388e34e4dba",
+        "android_client_info": {
+          "package_name": "com.alifeil.notificationpushfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDUeNUGp9xRuCw_GZH10-N5GAWzF4xAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056936223439-ifvhd65mvg3mhsdesjojhmrlg7smff4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
